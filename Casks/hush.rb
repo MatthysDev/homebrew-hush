@@ -7,7 +7,7 @@ cask "hush" do
   desc "Mute Discord over RPC while you dictate with Wispr Flow"
   homepage "https://github.com/MatthysDev/hush"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
   depends_on arch: :arm64
 
   app "Hush.app"
