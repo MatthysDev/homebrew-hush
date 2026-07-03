@@ -1,6 +1,6 @@
 cask "hush" do
-  version "0.1.2"
-  sha256 "e047a8dbaf7532b5a31f803dc90ebd1d293eb1956cfc6d55e7cacf9c74c1fb69"
+  version "0.1.4"
+  sha256 "ae2b2e839192b94c533f60ebe429eff33e1e1917b7aeb9e27ae02e98d2cca96f"
 
   url "https://github.com/MatthysDev/hush/releases/download/v#{version}/Hush-arm64.dmg"
   name "Hush"
